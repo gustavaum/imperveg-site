@@ -1,2 +1,2 @@
 baseurl: /imperveg-site
-exclude: ['README.md']
+exclude: ['README.md', 'LICENSE']
