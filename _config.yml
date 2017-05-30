@@ -1,0 +1,2 @@
+baseurl: /imperveg-site
+exclude: ['README.md']
